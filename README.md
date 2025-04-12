@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm Khabeer Arowosere — a passionate **backend d
 Stats: [Khabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-ld&show_icons=true&theme=radical)
 
 ### 📫 Get in Touch
-- Linkedin: [LinkedIn](https://linkedin.com/in/arowosere-ak)
-- Email: [Gmail](mailto:ayinde779@gmail.com)
-- Portfolio: [Portfolio](https://v0-backend-portfolio-kohl.vercel.app/)
+- Linkedin: [https://linkedin.com/in/arowosere-ak](https://linkedin.com/in/arowosere-ak)
+- Email: [ayinde779@gmail.com](mailto:ayinde779@gmail.com)
+- Portfolio: [(https://v0-backend-portfolio-kohl.vercel.app/)](https://v0-backend-portfolio-kohl.vercel.app/)
 
 ---
 
