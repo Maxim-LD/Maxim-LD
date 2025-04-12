@@ -19,7 +19,8 @@ Stats: [Khabeer's GitHub stats](https://github-readme-stats.vercel.app/api?usern
 
 ### 📫 Get in Touch
 - Linkedin: [LinkedIn](https://linkedin.com/in/arowosere-ak)
-- Email: [arowosere.ak@gmail.com](mailto:ayinde779@gmail.com)
+- Email: [Gmail](mailto:ayinde779@gmail.com)
+- Portfolio: [Portfolio](https://v0-backend-portfolio-kohl.vercel.app/)
 
 ---
 
