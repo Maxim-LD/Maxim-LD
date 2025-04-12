@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Khabeer Arowosere — a passionate **backend d
 - **Tools**: Git, GitHub, Postman, Docker, GitHub Actions, Visual Studio Code
 
 ### 📈 GitHub Stats
-![Khabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=arowosere-ak&show_icons=true&theme=radical)
+[Khabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=arowosere-ak&show_icons=true&theme=radical)
 
 ### 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/arowosere-ak)
