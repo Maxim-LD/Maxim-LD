@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Khabeer Arowosere — a passionate **backend d
 
 ### 💻 Skills & Tools
 - **Languages**: JavaScript, TypeScript
-- **Technologies**: Node.js, Express.js, NestJS, MongoDB, MySQL, PostgreSQL, Redis, JWT, Stripe, Paystack
+- **Technologies**: Node.js, Express.js, NestJS, MySQL, MongoDB, Supabase, PostgreSQL, Redis, JWT, Stripe, Paystack
 - **Tools**: Git, GitHub, Postman, Docker, GitHub Actions, Visual Studio Code
 
 ### 📈 GitHub Stats
@@ -19,7 +19,7 @@ Stats: [Khabeer's GitHub stats](https://github-readme-stats.vercel.app/api?usern
 ### 📫 Get in Touch
 - Linkedin: [https://linkedin.com/in/arowosere-ak](https://linkedin.com/in/arowosere-ak)
 - Email: [ayinde779@gmail.com](mailto:ayinde779@gmail.com)
-- Portfolio: [(https://v0-backend-portfolio-kohl.vercel.app/)](https://v0-backend-portfolio-kohl.vercel.app/)
+- Portfolio: [(https://arowosere-abdulkhabeer-portfolio.vercel.app/)](https://v0-backend-portfolio-kohl.vercel.app/)
 
 ---
 
